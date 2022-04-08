@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>272375538_3186533294966725_2134284890832301438_n_jpg.rf.508100d73204dcb8509096465f983064.jpg</filename>
+	<path>272375538_3186533294966725_2134284890832301438_n_jpg.rf.508100d73204dcb8509096465f983064.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gwapo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>154</xmin>
+			<xmax>259</xmax>
+			<ymin>150</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>
