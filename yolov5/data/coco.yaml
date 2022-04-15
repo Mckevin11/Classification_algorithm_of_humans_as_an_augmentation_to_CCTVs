@@ -1,0 +1,7 @@
+
+
+train: ../Dataset_testing.v1-adult_dataset_test.yolov5pytorch/train/images
+val: ../Dataset_testing.v1-adult_dataset_test.yolov5pytorch/valid/images
+
+nc: 2
+names: ['adult', 'child']
